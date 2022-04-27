@@ -1,0 +1,136 @@
+﻿License notice for MaterialDesignThemes (v4.4.0)
+------------------------------------
+
+https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit
+
+Licensed under MIT
+
+Available at https://licenses.nuget.org/MIT
+
+
+License notice for MaterialDesignThemes.MahApps (v0.2.1)
+------------------------------------
+
+https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit
+
+Licensed under MIT
+
+Available at https://licenses.nuget.org/MIT
+
+
+License notice for ShowMeTheXAML.MSBuild (v2.0.0)
+------------------------------------
+
+https://github.com/Keboo/ShowMeTheXAML
+
+Copyright 2020
+
+Licensed under MIT
+
+Available at https://licenses.nuget.org/MIT
+
+
+License notice for System.Drawing.Common (v6.0.0)
+------------------------------------
+
+https://github.com/dotnet/runtime at 4822e3c3aa77eb82b2fb33c9321f923cf11ddde6
+
+https://dot.net/
+
+Copyright © Microsoft Corporation. All rights reserved.
+
+Licensed under MIT
+
+Available at https://licenses.nuget.org/MIT
+
+
+License notice for ControlzEx (v4.3.0)
+------------------------------------
+
+https://github.com/ControlzEx/ControlzEx.git at 84aac3fdbbde970ce8b607f1a5048fab2f165e74
+
+https://github.com/ControlzEx/ControlzEx
+
+Copyright © 2015 - 2020 Jan Karger, Bastian Schmidt, James Willock
+
+Licensed under MIT
+
+Available at https://licenses.nuget.org/MIT
+
+
+License notice for MahApps.Metro (v2.0.0)
+------------------------------------
+
+https://github.com/MahApps/MahApps.Metro.git at e313e85ee3e79854e56dc7fdfa2eaedf954333d0
+
+https://github.com/MahApps/MahApps.Metro
+
+Copyright © 2011 - 2020 MahApps.Metro
+
+Licensed under MIT
+
+Available at https://licenses.nuget.org/MIT
+
+
+License notice for MaterialDesignColors (v2.0.5)
+------------------------------------
+
+https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit
+
+Licensed under MIT
+
+Available at https://licenses.nuget.org/MIT
+
+
+License notice for Microsoft.Win32.SystemEvents (v6.0.0)
+------------------------------------
+
+https://github.com/dotnet/runtime at 4822e3c3aa77eb82b2fb33c9321f923cf11ddde6
+
+https://dot.net/
+
+Copyright © Microsoft Corporation. All rights reserved.
+
+Licensed under MIT
+
+Available at https://licenses.nuget.org/MIT
+
+
+License notice for Microsoft.Xaml.Behaviors.Wpf (v1.1.19)
+------------------------------------
+
+https://github.com/microsoft/XamlBehaviorsWpf at b88a49dfadcc98f41634624124ee19f9d9dc4df2
+
+https://github.com/Microsoft/XamlBehaviorsWpf
+
+Copyright © Microsoft Corporation. All rights reserved.
+
+Licensed under MIT
+
+Available at https://licenses.nuget.org/MIT
+
+
+License notice for ShowMeTheXAML (v2.0.0)
+------------------------------------
+
+https://github.com/Keboo/ShowMeTheXAML
+
+Copyright 2020
+
+Licensed under MIT
+
+Available at https://licenses.nuget.org/MIT
+
+
+License notice for System.Text.Json (v4.7.2)
+------------------------------------
+
+https://github.com/dotnet/corefx
+
+Copyright © Microsoft Corporation. All rights reserved.
+
+Licensed under MIT
+
+Available at https://licenses.nuget.org/MIT
+
+
