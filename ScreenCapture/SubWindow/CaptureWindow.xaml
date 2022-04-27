@@ -1,0 +1,39 @@
+﻿<mah:MetroWindow x:Class="ScreenCapture.CaptureWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls"
+        xmlns:local="clr-namespace:ScreenCapture"
+        mc:Ignorable="d"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Background="Transparent"
+        ShowCloseButton="False" 
+        ShowMaxRestoreButton="False" 
+        ShowMinButton="False"
+        TitleForeground="Red"
+        GlowBrush="Red"
+        NonActiveGlowBrush="Red"
+        TitleCharacterCasing="Normal"
+        BorderThickness="1"
+        SaveWindowPosition="True"
+        Title="CaptureWindow" Height="400" Width="300" Cursor="Hand"
+        >
+    <mah:MetroWindow.NonActiveWindowTitleBrush>
+        <SolidColorBrush>
+            <SolidColorBrush.Color>
+                <Color A="1" R="255" G="255" B="255" />
+            </SolidColorBrush.Color>
+        </SolidColorBrush>
+    </mah:MetroWindow.NonActiveWindowTitleBrush>
+    <mah:MetroWindow.WindowTitleBrush>
+        <SolidColorBrush>
+            <SolidColorBrush.Color>
+                <Color A="1" R="255" G="255" B="255" />
+            </SolidColorBrush.Color>
+        </SolidColorBrush>
+        </mah:MetroWindow.WindowTitleBrush>
+    <Grid>
+    </Grid>
+</mah:MetroWindow>
